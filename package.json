@@ -1,0 +1,12 @@
+{
+  "name": "hakaton",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "author": "bobrov",
+  "dependencies": {
+    "quarkchain-web3": "^0.2.2",
+    "web3": "git://github.com/ethereum/web3.js.git#master"
+  },
+  "devDependencies": {}
+}
