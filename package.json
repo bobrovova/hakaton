@@ -5,7 +5,9 @@
   "scripts": {},
   "author": "bobrov",
   "dependencies": {
+    "mustache": "^3.0.0",
     "quarkchain-web3": "^0.2.2",
+    "solc": "^0.4.25",
     "web3": "git://github.com/ethereum/web3.js.git#master"
   },
   "devDependencies": {}

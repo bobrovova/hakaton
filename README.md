@@ -7,5 +7,5 @@ The application writes to the smart contract the text that you pass to it and th
     npm i
 
 **USING**
-    node app/app.js [text]
-    For example: node app/app.js Text123
+    node app/app.js [name token] [symbol] [decimals] [amount of tokens]
+    For example: node app/app.js TVMToken TVM 18 654
