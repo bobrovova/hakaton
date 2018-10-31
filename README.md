@@ -1,4 +1,4 @@
-The application writes to the smart contract the text that you pass to it and then displays the hash of the created transaction.
+The application сreate its token with its name, symbol, dimension and starting value of tokens. Deploys to the network and shows the address
 
 # REQUIREMENTS
     node 8.0 and newer
